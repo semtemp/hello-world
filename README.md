@@ -2,6 +2,6 @@
 
 repository guide example
 
-Hello! 
-Just a readme example here
-Making some changes
+\nHello! 
+\nJust a readme example here.
+\nMaking some changes
